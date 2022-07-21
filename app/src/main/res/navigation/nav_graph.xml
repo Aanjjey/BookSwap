@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph.xml"
+    app:startDestination="@id/myBooksFragment">
+
+    <fragment
+        android:id="@+id/myBooksFragment"
+        android:name="ac.ic.bookapp.ui.myBooks.MyBooksFragment"
+        android:label="fragment_my_books"
+        tools:layout="@layout/fragment_my_books" />
+    <fragment
+        android:id="@+id/searchFragment"
+        android:name="ac.ic.bookapp.ui.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/notifsFragment"
+        android:name="ac.ic.bookapp.ui.notifs.NotifsFragment"
+        android:label="fragment_notifs"
+        tools:layout="@layout/fragment_notifs" />
+    <fragment
+        android:id="@+id/messagingFragment"
+        android:name="ac.ic.bookapp.messaging.ChannelListFragment"
+        android:label="ChannelListFragment"
+        tools:layout="@layout/fragment_channel_list"/>
+
+</navigation>

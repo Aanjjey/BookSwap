@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <!-- Strings used for SharedPreferences -->
+    <string name="login_shared_preferences_name">Login</string>
+    <string name="login_username_key">Username</string>
+    <string name="login_user_id_key">UserId</string>
+    <string name="login_dev_username">dev</string>
+    <string name="login_dev_id">1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_books">My Books</string>
+    <string name="search">Search</string>
+    <string name="borrow_btn">Borrow</string>
+    <string name="my_books_book">Book #n</string>
+    <string name="title_activity_add_book">AddBookActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="book_title_hint">Book Title</string>
+    <string name="add_book">Add Book</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="book_isbn_hint">Book ISBN</string>
+    <string name="book_published_date_hint">Book Published Date</string>
+    <string name="add_book_heading">Add New Book</string>
+    <string name="scan_a_barcode">Scan a Barcode…</string>
+    <string name="permission_required">Camera access is required to display the camera preview.</string>
+    <string name="ok">OK</string>
+    <string name="permission_granted">Permission is granted. You can use the camera now.</string>
+    <string name="isbn_help">
+        ISBN is a unique code that identifies
+        the book. Usually can be found on the
+        barcode on the back cover of the book.</string>
+    <string name="add_book_tooltip_text">Scan a Barcode or Enter the Book\'s ISBN</string>
+    <string name="my_books_default_book_icon_description">Default book icon</string>
+    <string name="my_books_row_current_copies_text">Current copies</string>
+    <string name="my_books_row_total_copies_text">Total copies</string>
+    <string name="my_books_row_isbn_text">ISBN</string>
+    <string name="search_row_owners_text">Owners</string>
+    <string name="borrowed_books">Borrowed Books</string>
+    <string name="owned_books">Owned Books</string>
+    <string name="borrowed_copies">Copies</string>
+    <string name="borrowed_books_row_return">RETURN</string>
+    <string name="borrowed_books_row_from">From user</string>
+    <string name="book_user">User#1</string>
+    <string name="book_title">Book Title</string>
+    <string name="notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="notifs_row_borrow_request">Borrow request</string>
+    <string name="book_picture_content_description">Book picture</string>
+    <string name="notifs_row_copies_text">Copies</string>
+    <string name="user_picture_content_description">User picture</string>
+    <string name="notifs_row_name_text">Name</string>
+    <string name="notifs_row_institution_text">Institution</string>
+    <string name="department">Department</string>
+    <string name="notifs_row_accept_button_text">Accept</string>
+    <string name="notifs_row_deny_button_text">Deny</string>
+    <string name="notifs_row_no_new_notifs">All caught up!</string>
+    <string name="lentBooksTitle">Lent Books</string>
+    <string name="lent_book_to_row">"Lent to: "</string>
+    <string name="borrow_row_borrow_button">Borrow</string>
+    <string name="book_image">Book image</string>
+    <string name="published">Published</string>
+    <string name="owners">Owners</string>
+    <string name="borrow_from">Borrow from:</string>
+    <string name="available_books">Available books</string>
+    <string name="popup_message">Popup Message.</string>
+    <string name="add_book_button">Add book button</string>
+    <string name="you_haven_t_borrowed_any_books_yet">You haven\'t borrowed any books yet!</string>
+    <string name="you_haven_t_lent_out_any_books_yet">You haven\'t lent out any books yet!</string>
+    <string name="add_books_you_own_with_the_button_below">Add books you own with the <b>+</b> button below.</string>
+    <string name="no_books_yet">No books yet!</string>
+    <string name="all_caught_up">All caught up!</string>
+    <string name="message_text">Messages</string>
+    <string name="Messages">Messages</string>
+    <string name="Return">Return</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="owned_tab_title">Owned</string>
+    <string name="lent_tab_title">Lent</string>
+    <string name="borrowed_tab_title">Borrowed</string>
+
+</resources>
