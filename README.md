@@ -2,7 +2,7 @@
 
 Frontend repo for the BookSwap project.
 
-Can find the [backend here](https://github.com/Aanjjey/bookswap_backend)
+Can find the [backend here](https://github.com/Aanjjey/BookSwap-backend)
 
 BookSwap is an Android mobile application that allows students to share unused books in their institution.
 
